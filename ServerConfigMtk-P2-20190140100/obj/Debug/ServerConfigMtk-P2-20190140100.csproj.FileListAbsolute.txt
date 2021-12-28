@@ -1,0 +1,11 @@
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\obj\Debug\ServerConfigMtk-P2-20190140100.csproj.AssemblyReference.cache
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\obj\Debug\ServerConfigMtk-P2-20190140100.csproj.CoreCompileInputs.cache
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\bin\Debug\ServerConfigMtk-P2-20190140100.exe.config
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\bin\Debug\ServerConfigMtk-P2-20190140100.exe
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\bin\Debug\ServerConfigMtk-P2-20190140100.pdb
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\bin\Debug\ServiceMtk-P1-20190140100.dll
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\bin\Debug\ServiceMtk-P1-20190140100.pdb
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\bin\Debug\ServiceMtk-P1-20190140100.dll.config
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\obj\Debug\ServerConfigMtk-P2-20190140100.csproj.CopyComplete
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\obj\Debug\ServerConfigMtk-P2-20190140100.exe
+D:\INS 2020\ServerConfigMtk-P2-20190140100\ServerConfigMtk-P2-20190140100\obj\Debug\ServerConfigMtk-P2-20190140100.pdb
